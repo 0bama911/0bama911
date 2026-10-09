@@ -9,3 +9,9 @@
   <h1>👻</h1>
 
 </div>
+
+<div align="center">
+  <img src="https://media1.tenor.com/m/EqtpqfPOFQ0AAAAC/cook-rabbids.gif"
+       width="400"
+       alt="Rabbids cozinhando">
+</div>
